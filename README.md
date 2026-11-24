@@ -4,14 +4,11 @@
 [![rank](https://make.fun/badge/news-image-20261124/jymiko/makefun-news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/jymiko/makefun-news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
-One-image editorial world news digest for **Tuesday, 24 November 2026**, featuring six verified stories across the Americas, Europe, Asia, Africa, and space:
+One-image world news broadsheet for **Tuesday, 24 November 2026 (UTC)** — **30 dated stories across 7 regions and 14 fields**, rendered from original vector diagrams and a pinned world map (`1024×1024` PNG, `113,940 bytes`):
 
-1. **Markets (US & Asia):** Nvidia reinstates Jensen Huang as CEO, sparking a global tech and Asian equity rally amid U.S. congressional scrutiny.
-2. **War & UN (Ukraine / Libya):** Ukrainian sea drones strike Russian corvette *Merkury* in Benghazi as the UN Security Council warns on winter power-grid strikes.
-3. **Security (South Korea):** Brief air-raid alert issued for Ulleung Island after Russian military aircraft enter South Korea's air-defense zone.
-4. **Economy (Niger / Africa):** Niamey opens the inaugural UNDP-backed Niger International Investment Forum targeting infrastructure growth.
-5. **Sports (Geneva):** Game 1 of the 2026 FIDE World Chess Championship opens between 20-year-olds Gukesh and Sindarov.
-6. **Space (Global):** November's Beaver Supermoon peaks at 14:53 UTC near perigee.
+- **3 Lead Stories:** Strait of Hormuz tanker mine claims amid the U.S. port blockade of Iran (`CLAIM`); global & Asian tech stock rally and U.S. Congressional pushback following Jensen Huang's Nvidia return (`CONFIRMED`); Russian reconnaissance drone breaching Polish/NATO airspace (`OFFICIAL`).
+- **10 Secondary Illustrated Stories:** ESA Euclid record-breaking quasar `J1504+6252`, Australia's 5%-revenue online safety bill, South Korea Ulleungdo `07:52 KST` KADIZ alert, DR Congo Ituri Ebola/Gavi `1.5M` doses, Geneva FIDE World Chess Championship Game 1 (`20 vs 20`), Amnesty Tigray probe call, UK sanctions on Myanmar military chiefs, Roscosmos Progress 97 launch to ISS (`10:17 UTC`), Niger UNDP investment forum, and Brazil red-level storm warnings.
+- **17 Attributed Wire Briefs + Pinned World Map + `DATE CHECK` Exclusion Audit:** Full coverage across all six inhabited continents and space, with explicit epistemic status badges (`OFFICIAL`, `CONFIRMED`, `REPORTED`, `CLAIM`) and explicit exclusion of Nov 21–23 events.
 
 ## Run it
 
